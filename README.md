@@ -9,7 +9,7 @@ I'm studying to be a IT Engineer @ Centria University.
 Some of the things here are related to my studies and others are just for testing or learning purposes. 
 
 💻 Currently working with C#, SQL, Bootstrap & JavaScript.
-I have experience with Git, virtualization, containers and Firebase.
+I have experience with Git, virtualization & containers.
 
 
 
