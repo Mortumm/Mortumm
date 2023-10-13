@@ -9,4 +9,4 @@ I'm studying to be an ICT Engineer @ Centria University.
 Some of the things here are related to my studies and others are just for testing or learning purposes. 
 
 💻 Currently working with C#, SQL (PostgreSQL), Bootstrap & JavaScript.
-I have experience with Git, virtualization & containers.
+I have experience with project management, automation, Git, virtualization & containers.
