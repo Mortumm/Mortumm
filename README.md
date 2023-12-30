@@ -1,12 +1,12 @@
-### Hi, I'm Nuno
+### Hi, I'm Nuno 
 
-Welcome to my profile, here are some deets about me:
+Welcome to my profile! Here's a glimpse into who I am:
 
-Finnish / Portuguese - Fluent in Finnish and English, some Swedish too. 
-Computer enthusiast all the way from my childhood, hardware nerd first - now towards the world of software.
+🌍 Finnish / Portuguese - Fluent in Finnish and English, some Swedish too. 
+💻 Computer / Hardware enthusiast turned ICT Engineering student @ Centria UAS.
 
-I'm studying to be an ICT Engineer @ Centria UAS. 
-Some of the things here are related to my studies and others are just for testing or learning purposes. 
+🔧 Currently working with C#, PostgreSQL, Bootstrap & JavaScript. Looking about diving into Rust and htmx next. Experienced in project management, automation, Git/version control, virtualization & containers.
 
-💻 Currently working with C#, SQL (PostgreSQL), Bootstrap & JavaScript.
-I have experience with in the following topics: project management, automation, Git/Version control, virtualization & containers.
+🌐 **International Work:** My goal is to contribute to international projects, and I've already gained valuable experience in such endeavors.
+
+Feel free to explore my repositories – some are related to my studies, others for testing and learning purposes. Thanks for stopping by! 😊
