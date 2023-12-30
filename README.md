@@ -2,7 +2,7 @@
 
 Welcome to my profile! Here's a glimpse into who I am:
 
-🌍 Finnish / Portuguese - Fluent in Finnish and English, some Swedish too. 
+🌍 Finnish / Portuguese - Fluent in Finnish and English, some Swedish too.   
 💻 Computer / Hardware enthusiast turned ICT Engineering student @ Centria UAS.
 
 🔧 Currently working with C#, PostgreSQL, Bootstrap & JavaScript. Looking about diving into Rust and htmx next. Experienced in project management, automation, Git/version control, virtualization & containers.
