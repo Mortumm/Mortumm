@@ -1,6 +1,6 @@
 ### Hi, I'm Nuno 
 
-Here's a short summary of me:
+Summary of me:
 
 🌍 Finnish / Portuguese - Fluent in Finnish and English, some Swedish too.   
 💻 Computer / Hardware enthusiast turned ICT Engineering student @ Centria UAS.
